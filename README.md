@@ -1,5 +1,10 @@
 - 👋 ola, eu sou @MatheusNuneszx
-- tentando aprender mais de programação :desktop_computer:
-- eletronica :electric_plug:
+
+# sobre min
+
+- :pencil2: Estou no primeiro ano do ensino médio
+- :desktop_computer: Tentando aprender mais de programação
+- :electric_plug: Eletrônica
+- :gear: Mecânica
 - :basketball: / :soccer:
 - :e-mail: nunesda.silva.matheus@escola.pr.gov.br

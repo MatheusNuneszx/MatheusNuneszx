@@ -8,3 +8,5 @@
 - :gear: Mecânica
 - :basketball: / :soccer:
 - :e-mail: nunesda.silva.matheus@escola.pr.gov.br
+
+![](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)

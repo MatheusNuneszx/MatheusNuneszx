@@ -9,4 +9,4 @@
 - :basketball: / :soccer:
 - :e-mail: nunesda.silva.matheus@escola.pr.gov.br
 
-![](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
+![](https://img.shields.io/badge/FIFA-B7312F?style=for-the-badge&logo=fifa&logoColor=white)
